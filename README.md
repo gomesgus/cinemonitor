@@ -1,4 +1,4 @@
-# hotfood_pi1
+# VETS
 
 <img src="https://i.ibb.co/gz1bcVx/LOGO.png" width="300">
 
@@ -6,7 +6,6 @@
 
 Projeto integrador do curso de Análise e desenvolvimento de sistemas
 
-# Hot_food
 
 ### 1. APRESENTAÇÃO
 Plataforma que conecta clínicas veterinárias e usuários donos de pets em geral, assim facilitando a procura de uma clínica quando necessário, informação que nem sempre é fácil achar pela internet.
@@ -20,13 +19,13 @@ Plataforma que conecta clínicas veterinárias e usuários donos de pets em gera
 
 >Banco de dados Modelo Lógico
 
-<img src="https://i.ibb.co/bmRYQCg/banco-imagem.jpg" width="700"> 
+<img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="700"> 
 
 
 
 #### 2.1 -ATORES 
--Comerciantes </br>
--Instituição que receberá o alimento
+-Usuário </br>
+-Clínica
 
 #### 2.2 -FUNCIONAL
 - [X] Cadastro de alimentos
