@@ -12,10 +12,15 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 ### 2. EQUIPE
 
-👤 **Gustavo Gomes**          👤 **Wilson Arid Look** 
-                              - Função: Dev
-- Função: Dev                 - Linkedin: [@wilsonlook]()
-- Linkedin: [@gustavogomes](https://www.linkedin.com/in/gustavoogomess/) 
+👤 **Gustavo Gomes**
+
+- Função: Dev
+- Linkedin: [@gustavogomes](https://www.linkedin.com/in/gustavoogomess/)
+
+👤 **Wilson Arid Look**
+
+- Função: Dev
+- Linkedin: [@wilsonlook]()
 
 👤 **João Adolfo**
 
@@ -42,7 +47,7 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 > #### 3.1 Banco de dados Modelo Lógico
 
-<img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="700"> 
+<img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="800"> 
 
 
 > #### 3.2 Funcional
