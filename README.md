@@ -47,7 +47,7 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 > #### 3.1 Banco de dados Modelo Lógico
 
-<img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="1000"> 
+<img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="700"> 
 
 
 > #### 3.2 Funcional
@@ -87,8 +87,8 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 
 #### 4 - Tecnologias envolvidas
 
-- [PHP](https://https://www.php.net//)
-- [Laravel](https://laravel.com/)
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS</a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML</a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JavaScript<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
 
 
 #### 5 - Como rodar o projeto em sua maquina ?
