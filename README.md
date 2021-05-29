@@ -45,12 +45,12 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 ### 3. ESPECIFICAÇÃO
 
-> #### 3.1 Banco de dados Modelo Lógico
+> ### 3.1 Banco de dados Modelo Lógico
 
 <img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="700"> 
 
 
-> #### 3.2 Funcional
+> ### 3.2 Funcional
 
 - [X] Localização de Clínicas: 
 
@@ -85,7 +85,7 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 
 > Tela inicial da Aplicação 
 
-### 4 Tecnologias envolvidas
+### 4. Tecnologias Usadas
 
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  CSS
@@ -94,7 +94,7 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>  Java 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  JavaScript </p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="40"/> </a>  JavaScript </p>
 
 
 
