@@ -5,12 +5,12 @@
 
 
 Projeto integrador do curso de Análise e desenvolvimento de sistemas
+<br>
 
-
-### APRESENTAÇÃO
+### 1. APRESENTAÇÃO
 A Vets irá conectar as clínicas veterinárias e usuários donos de pets em geral, assim facilitando a procura de uma clínica quando necessário, informação que nem sempre é fácil achar pela internet. A versão final estará disponível em web e aplicativo mobile, onde um usuário conseguirá localizar clínicas veterinárias e petshops mais próximos assim como seus serviços e contatos. As clínicas poderão ser avaliadas por usuários cadastrados, sendo como diferencial o ranking de avaliação para quem busca o melhor atendimento para os seus pets.
 
-### EQUIPE
+### 2. EQUIPE
 
 👤 **Gustavo Gomes**
 
@@ -43,15 +43,14 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 - Linkedin: [@davijose]()
 
 
-### ESPECIFICAÇÃO
+### 3. ESPECIFICAÇÃO
 
-> Banco de dados Modelo Lógico
+> #### 3.1 Banco de dados Modelo Lógico
 
 <img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="700"> 
 
-## 2. ESPECIFICAÇÃO
 
-> Funcional
+> #### 3.2 Funcional
 
 - [X] Localização de Clínicas: 
 
@@ -70,15 +69,10 @@ clínica em si.
 
 A aplicação deverá funcionar tanto em web quanto em smartphones que possuem acesso à internet.
 
-> <img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700"> 
-
-> Banco de Dados - Lógico
-
-<img src="https://i.ibb.co/X4TrgZn/Vet-Use-Case.png" width="700">
+<img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700"> 
 
 
-
-
+<br> <br> <br> <br>
 
 
 ### 3.1 - Apresentação do Sistema 
