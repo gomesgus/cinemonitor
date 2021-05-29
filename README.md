@@ -47,7 +47,7 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 > #### 3.1 Banco de dados Modelo Lógico
 
-<img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="800"> 
+<img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="1000"> 
 
 
 > #### 3.2 Funcional
