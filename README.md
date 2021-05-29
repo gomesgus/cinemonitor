@@ -7,41 +7,78 @@
 Projeto integrador do curso de Análise e desenvolvimento de sistemas
 
 
-### 1. APRESENTAÇÃO
-Plataforma que conecta clínicas veterinárias e usuários donos de pets em geral, assim facilitando a procura de uma clínica quando necessário, informação que nem sempre é fácil achar pela internet.
+### APRESENTAÇÃO
+A Vets irá conectar as clínicas veterinárias e usuários donos de pets em geral, assim facilitando a procura de uma clínica quando necessário, informação que nem sempre é fácil achar pela internet. A versão final estará disponível em web e aplicativo mobile, onde um usuário conseguirá localizar clínicas veterinárias e petshops mais próximos assim como seus serviços e contatos. As clínicas poderão ser avaliadas por usuários cadastrados, sendo como diferencial o ranking de avaliação para quem busca o melhor atendimento para os seus pets.
 
-### 2. EQUIPE
-|Nome|Papel|LinkedIn|
-|--|--|--|
-|Gustavo Gomes|Dev|https://www.linkedin.com/in/gustavoogomess/|
+### EQUIPE
 
-### 2. ESPECIFICAÇÃO
+👤 **Gustavo Gomes**
 
->Banco de dados Modelo Lógico
+- Função: Dev
+- Linkedin: [@gustavogomes](https://www.linkedin.com/in/gustavoogomess/)
+
+👤 **Wilson Arid Look**
+
+- Função: Dev
+- Linkedin: [@wilsonlook]()
+
+👤 **João Adolfo**
+
+- Função: Dev
+- Linkedin: [@joaoadolfo]()
+
+👤 **Deise de Oliveira**
+
+- Função: Dev
+- Linkedin: [@deiseoliveira]()
+
+👤 **Marcos Martins**
+
+- Função: Dev
+- Linkedin: [@marcosmartins]()
+
+👤 **Davi Jose**
+
+- Função: Dev
+- Linkedin: [@davijose]()
+
+
+### ESPECIFICAÇÃO
+
+> Banco de dados Modelo Lógico
 
 <img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="700"> 
 
+## 2. ESPECIFICAÇÃO
+
+> Funcional
+
+- [X] Localização de Clínicas: 
+
+Deve haver uma interface de localização das clínicas e
+estabelecimentos próximos e podendo visualizar mais informações sobre os mesmos, como
+contato, serviços oferecidos e avaliações, sendo opcional ser conforme a localização do usuário
+ou não, e não é obrigatório estar logado na plataforma para localizar os provedores de serviços.
+
+- [X] Avaliação das Clínicas:
+
+Nas telas de informações das clínicas, haverá um espaço para avaliação das mesmas, onde usuário cadastrados e logados podem inserir uma curta resenha sobre a
+clínica, que poderão ser visualizadas por todos os utilizados junto as principais informações da
+clínica em si.
+
+- [X] Portabilidade:
+
+A aplicação deverá funcionar tanto em web quanto em smartphones que possuem acesso à internet.
+
+> <img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700"> 
+
+> Banco de Dados - Lógico
+
+<img src="https://i.ibb.co/X4TrgZn/Vet-Use-Case.png" width="700">
 
 
-#### 2.1 -ATORES 
--Usuário </br>
--Clínica
 
-#### 2.2 -FUNCIONAL
-- [X] Cadastro de alimentos
-- [X] Exclusão de alimentos
-- [X] edição de alimentos cadastrados por parte do doador
-- [x] Painel de alimentos 
-- [x] Informações sobre os alimentos a serem doados 
-- [X] Cadastro de usuário 
-- [X] Edição do cadastro do usuário
-- [x] Notificação em alimentos que estão com tempo para serem doados
-- [x] Notificações em tempo real para que o doador receba informações de quem quer o alimeto
-- [x] Notificação inversa onde o donatário recebe em tempo real informações e situação de estado do pedido feito
 
->Use Case
-
-<img src="https://i.ibb.co/1LdGDBr/caso-de-uso-hotfood.jpg">
 
 
 ### 3.1 - Apresentação do Sistema 
