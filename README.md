@@ -4,7 +4,7 @@
 
 
 
-Projeto integrador do curso de Análise e desenvolvimento de sistemas
+Projeto integrador do curso de Análise e Desenvolvimento de Sistemas.
 <br>
 
 ### 1. APRESENTAÇÃO
@@ -24,7 +24,7 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 👤 **João Adolfo**
 
-- Função: Dev
+- Função: PO
 - Linkedin: [@joaoadolfo]()
 
 👤 **Deise de Oliveira**
