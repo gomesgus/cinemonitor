@@ -25,7 +25,7 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 👤 **João Adolfo**
 
 - Função: PO
-- Linkedin: [@joaoadolfo]()
+- Linkedin: [@joaoadolfo](https://www.linkedin.com/in/joao-adolfo/)
 
 👤 **Deise de Oliveira**
 
