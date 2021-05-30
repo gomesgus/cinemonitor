@@ -75,17 +75,19 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 <br> <br> <br> <br>
 
 
-### 3.1 - Apresentação do Sistema 
-
-<img src="https://i.ibb.co/x1B1cdv/login-hotfood.jpg">
+### 4 Apresentação do Sistema 
 
 > Tela de login 
+<img src="https://i.ibb.co/60PW3PY/loginj.png">
 
-<img src="https://i.ibb.co/St6MVB6/index-hotfood.jpg" width="3000">
+> ???????
+<img src="https://i.ibb.co/X5DyHFq/onde-vc-ts.png">
 
-> Tela inicial da Aplicação 
+> Clínica
+<img src="https://i.ibb.co/jGdkM75/loja.png">
 
-### 4. Tecnologias Usadas
+
+### 5. Tecnologias Usadas
 
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  CSS
@@ -98,18 +100,5 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 
 
 
-#### 5 - Como rodar o projeto em sua maquina ?
+### 6 - Como rodar o projeto em sua maquina ?
 
-- Para rodar esta projeto em sua maquina você precisará instalar:
-- [PHP] maior que 7.4 (https://https://www.php.net//)
-- [Laravel] (https://laravel.com/)
-- [Composer] (https://getcomposer.org/) 
-- Logo após isso quando você clonar o projeto em sua maquina modifique o .envexemple para . envi e faça as configurações em sua maquina.
-#### - Configurações:
-- 1.composer install && yarn dev
-- 2.php artisan key:generate
-- 3.php artisan storage:link
-- 4.Editar as configurações doo banco para as configurações da máquina 
-- 5.composer dump-autoload && php artisan optimize:clear
-- 6.yarn dev 
-- 7.php artisan serve
