@@ -73,14 +73,14 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 
 ### 4 Apresentação do Sistema 
 
-> Tela de login 
-<img src="https://i.ibb.co/VYSq7SV/loginj.png" width="100"> 
+> login 
+<img src="https://i.ibb.co/VYSq7SV/loginj.png" width="400"> 
 
-> ???????
-
+> Mapa das Clínicas próximas
+<img src="https://i.ibb.co/DYzNF9S/mapa.png" width="400"> 
 
 > Clínica
-<img src="https://i.ibb.co/GkXQ2gJ/loja.png" width="100"> 
+<img src="https://i.ibb.co/GkXQ2gJ/loja.png" width="400"> 
   
 
 
