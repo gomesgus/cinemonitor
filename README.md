@@ -74,7 +74,7 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 ### 4 Apresentação do Sistema 
 
 > Tela de login 
-![VETS](https://i.ibb.co/60PW3PY/loginj.png)
+![VETS](https://ibb.co/60PW3PY)
 
 > ???????
 |  ![VETS](imagem/map.png)
