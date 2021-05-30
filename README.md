@@ -50,7 +50,7 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 <img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="700"> 
 
 
-> ### 3.2 Funcional
+> ### 3.2 Requisitos Funcionais
 
 - [X] Cadastro de Usuários: 
 
@@ -91,7 +91,7 @@ clínica em si.
 > ### Login 
 <img src="https://i.ibb.co/VYSq7SV/loginj.png" width="400"> 
 
-> ### Mapa das Clínicas próximas
+> ### Mapa das clínicas próximas
 <img src="https://i.ibb.co/W0GQXkY/mapa.png" width="400"> 
 
 > ### Clínica
