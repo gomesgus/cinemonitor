@@ -45,12 +45,27 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 ### 3. ESPECIFICAÇÃO
 
-> ### 3.1 Banco de dados Modelo Lógico
+> #### 3.1 Banco de dados Modelo Lógico
 
 <img src="https://i.ibb.co/h8VxBN5/Modelo-L-gico.png" width="700"> 
 
 
-> ### 3.2 Funcional
+> #### 3.2 Funcional
+
+- [X] Cadastro de Usuários: 
+
+Deverá haver a possibilidade de usuários efetuarem cadastros,
+informando Nome, e-mail, senha.
+
+- [X] Login de Usuário: 
+
+Deve haver a entrada de login de usuário informando email e senha, para ter
+acesso a mais recursos da plataforma.
+
+- [X] Recuperação de Senha: 
+
+Deve haver a possibilidade do usuário recuperar a senha em caso de
+esquecimento.
 
 - [X] Localização de Clínicas: 
 
@@ -65,15 +80,12 @@ Nas telas de informações das clínicas, haverá um espaço para avaliação da
 clínica, que poderão ser visualizadas por todos os utilizados junto as principais informações da
 clínica em si.
 
-- [X] Portabilidade:
-
-A aplicação deverá funcionar tanto em web quanto em smartphones que possuem acesso à internet.
-
+>#### Use Case
 <img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700"> 
 
-### 4 APRESENTAÇÃO DO SISTEMA
+### 4. APRESENTAÇÃO DO SISTEMA
 
-> login 
+> Login 
 <img src="https://i.ibb.co/VYSq7SV/loginj.png" width="400"> 
 
 > Mapa das Clínicas próximas
