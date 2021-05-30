@@ -71,7 +71,7 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 
 <img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700"> 
 
-### 4 Apresentação do Sistema 
+### 4 APRESENTAÇÃO DO SISTEMA
 
 > login 
 <img src="https://i.ibb.co/VYSq7SV/loginj.png" width="400"> 
@@ -84,7 +84,7 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
   
 
 
-### 5. Tecnologias Usadas
+### 5. TECNOLOGIAS USADAS
 
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  CSS
@@ -97,5 +97,5 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 
 
 
-### 6 - Como rodar o projeto em sua maquina ?
+### 6 - COMO RODAR?
 
