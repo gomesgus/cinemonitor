@@ -74,7 +74,7 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 ### 4 Apresentação do Sistema 
 
 > Tela de login 
-<img src="https://ibb.co/60PW3PY"> 
+<img src="https://i.ibb.co/VYSq7SV/loginj.png"> 
 
 > ???????
 
