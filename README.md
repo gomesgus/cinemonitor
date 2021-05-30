@@ -71,14 +71,10 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 
 <img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700"> 
 
-
-<br> <br> <br> <br>
-
-
 ### 4 Apresentação do Sistema 
 
 > Tela de login 
-<img src="https://i.ibb.co/60PW3PY/loginj.png">
+<img src="https://i.ibb.co/60PW3PY/loginj.png" width="700">
 
 > ???????
 <img src="https://i.ibb.co/X5DyHFq/onde-vc-ts.png">
