@@ -89,13 +89,13 @@ clínica em si.
 ### 4. APRESENTAÇÃO DO SISTEMA
 
 > ### Login 
-<img src="https://i.ibb.co/VYSq7SV/loginj.png" width="400"> 
+<img src="https://i.ibb.co/VYSq7SV/loginj.png" width="300"> 
 
 > ### Mapa das clínicas próximas
-<img src="https://i.ibb.co/W0GQXkY/mapa.png" width="400"> 
+<img src="https://i.ibb.co/W0GQXkY/mapa.png" width="300"> 
 
 > ### Clínica
-<img src="https://i.ibb.co/GkXQ2gJ/loja.png" width="400"> 
+<img src="https://i.ibb.co/GkXQ2gJ/loja.png" width="300"> 
   
 
 
