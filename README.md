@@ -80,18 +80,18 @@ Nas telas de informações das clínicas, haverá um espaço para avaliação da
 clínica, que poderão ser visualizadas por todos os utilizados junto as principais informações da
 clínica em si.
 
->### Use Case
+>### 3.3 Use Case
 <img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700"> 
 
 ### 4. APRESENTAÇÃO DO SISTEMA
 
-> Login 
+> ### Login 
 <img src="https://i.ibb.co/VYSq7SV/loginj.png" width="400"> 
 
-> Mapa das Clínicas próximas
+> ### Mapa das Clínicas próximas
 <img src="https://i.ibb.co/W0GQXkY/mapa.png" width="400"> 
 
-> Clínica
+> ### Clínica
 <img src="https://i.ibb.co/GkXQ2gJ/loja.png" width="400"> 
   
 
