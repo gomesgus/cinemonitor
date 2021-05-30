@@ -77,7 +77,7 @@ A aplicação deverá funcionar tanto em web quanto em smartphones que possuem a
 <img src="https://i.ibb.co/VYSq7SV/loginj.png" width="400"> 
 
 > Mapa das Clínicas próximas
-<img src="https://i.ibb.co/DYzNF9S/mapa.png" width="400"> 
+<img src="https://i.ibb.co/W0GQXkY/mapa.png" width="400"> 
 
 > Clínica
 <img src="https://i.ibb.co/GkXQ2gJ/loja.png" width="400"> 
