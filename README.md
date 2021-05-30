@@ -81,7 +81,10 @@ clínica, que poderão ser visualizadas por todos os utilizados junto as princip
 clínica em si.
 
 >### 3.3 Use Case
-<img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700"> 
+<img src="https://i.ibb.co/hMvJjRG/Vet-Use-Case.png" width="700">
+
+>### 3.4 Diagrama de Classe
+<img src="https://i.ibb.co/P5xpcf3/image.png" width="700">
 
 ### 4. APRESENTAÇÃO DO SISTEMA
 
@@ -105,7 +108,7 @@ clínica em si.
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>  Java 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="40"/> </a>  JavaScript </p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/> </a>  JavaScript </p>
 
 
 
