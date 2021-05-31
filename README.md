@@ -110,7 +110,8 @@ clínica em si.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/> </a>  JavaScript </p>
 
-<a href="https://developers.google.com/maps?hl=pt-br" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgooglemaps%2F&psig=AOvVaw0IK7d9J5lSukl3dMJy9v8X&ust=1622586462001000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiTtdD79PACFQAAAAAdAAAAABAD" alt="ApiMaps" width="30" height="40"/> </a>  Api GoogleMaps </p>
+<a href="https://developers.google.com/maps?hl=pt-br" target="_blank"><img src="![image](https://user-images.githubusercontent.com/61831823/120246577-ffcc2400-c246-11eb-98a7-71dd2df42416.png)
+" alt="ApiMaps" width="30" height="40"/> </a>  Api GoogleMaps </p>
 
 ### 6 - COMO ACESSAR O APP?
 
