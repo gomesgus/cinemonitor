@@ -94,7 +94,7 @@ clínica em si.
 <img src="https://i.ibb.co/B4gMBw5/maapa.png" width="400"> 
 
 > ### Clínica
-<img src="https://i.ibb.co/d2HGG9d/clinica.png" width="400"> 
+<img src="https://i.ibb.co/jz1ddDT/dd.png" width="400"> 
   
 
 
