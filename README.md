@@ -12,7 +12,7 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 ### 2. EQUIPE
 
-<img src="https://i.ibb.co/020QkfX/download.png" width="100"> **Gustavo Gomes**
+<img src="https://i.ibb.co/020QkfX/download.png" width="70"> **Gustavo Gomes**
 
 - Função: Dev
 - Linkedin: [@gustavogomes](https://www.linkedin.com/in/gustavoogomess/)
