@@ -29,12 +29,12 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 <img src="https://i.ibb.co/8s6tGGT/download-3.png" width="100"> <br> **Deise de Oliveira**
 
 - Função: Dev
-- Linkedin: [@deiseoliveira]()
+- Linkedin: [@deiseoliveira](https://www.linkedin.com/in/deise-de-oliveira-silva-9576499b/)
 
 <img src="https://i.ibb.co/smL83x9/download-2.png" width="100"> <br> **Marcos Martins**
 
 - Função: Dev
-- Linkedin: [@marcosmartins]()
+- Linkedin: [@marcosmartins](https://www.linkedin.com/in/whoismartins/)
 
 <img src="https://i.ibb.co/bJs4zwk/download-4.png" width="100"> <br> **Davi Jose**
 
