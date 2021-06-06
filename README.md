@@ -16,26 +16,26 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 - Função: Dev
 - Linkedin: [@gustavogomes](https://www.linkedin.com/in/gustavoogomess/)
-
+<br>
 <img src="" width="100"> <br> **Wilson Arid Look**
 
 - Função: Dev
 - Linkedin: [@wilsonlook]()
-
+<br>
 <img src="https://i.ibb.co/X8jNqZr/download-1.png" width="100"> <br> **João Adolfo**
 - Função: PO
 - Linkedin: [@joaoadolfo](https://www.linkedin.com/in/joao-adolfo/)
-
+<br>
 <img src="https://i.ibb.co/8s6tGGT/download-3.png" width="100"> <br> **Deise de Oliveira**
 
 - Função: Dev
 - Linkedin: [@deiseoliveira](https://www.linkedin.com/in/deise-de-oliveira-silva-9576499b/)
-
+<br>
 <img src="https://i.ibb.co/smL83x9/download-2.png" width="100"> <br> **Marcos Martins**
 
 - Função: Dev
 - Linkedin: [@marcosmartins](https://www.linkedin.com/in/whoismartins/)
-
+<br>
 <img src="https://i.ibb.co/bJs4zwk/download-4.png" width="100"> <br> **Davi Jose**
 
 - Função: Dev
