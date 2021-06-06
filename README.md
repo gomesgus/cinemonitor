@@ -10,6 +10,10 @@ Projeto integrador do curso de Análise e Desenvolvimento de Sistemas.
 ### 1. APRESENTAÇÃO
 A Vets irá conectar as clínicas veterinárias e usuários donos de pets em geral, assim facilitando a procura de uma clínica quando necessário, informação que nem sempre é fácil achar pela internet. A versão final estará disponível em web e aplicativo mobile, onde um usuário conseguirá localizar clínicas veterinárias e petshops mais próximos assim como seus serviços e contatos. As clínicas poderão ser avaliadas por usuários cadastrados, sendo como diferencial o ranking de avaliação para quem busca o melhor atendimento para os seus pets.
 
+img {
+  border-radius: 8px;
+}
+
 ### 2. EQUIPE
 
 <img src="https://i.ibb.co/FmG7yK4/fotGus.jpg" width="100"> **Gustavo Gomes**
