@@ -17,12 +17,12 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 - Função: Dev
 - Linkedin: [@gustavogomes](https://www.linkedin.com/in/gustavoogomess/)
 
-<img src="https://i.ibb.co/X8jNqZr/download-1.png" width="100"> <br> **Wilson Arid Look**
+<img src="" width="100"> <br> **Wilson Arid Look**
 
 - Função: Dev
 - Linkedin: [@wilsonlook]()
 
-<img src="" width="100"> <br> **João Adolfo**
+<img src="https://i.ibb.co/X8jNqZr/download-1.png" width="100"> <br> **João Adolfo**
 - Função: PO
 - Linkedin: [@joaoadolfo](https://www.linkedin.com/in/joao-adolfo/)
 
@@ -36,7 +36,7 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 - Função: Dev
 - Linkedin: [@marcosmartins]()
 
-<img src="" width="100"> <br> **Davi Jose**
+<img src="https://i.ibb.co/bJs4zwk/download-4.png" width="100"> <br> **Davi Jose**
 
 - Função: Dev
 - Linkedin: [@davijose]()
